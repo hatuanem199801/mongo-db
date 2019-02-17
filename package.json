@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hatuanem199801/mongo-db.git"
+    "url": "git+https://github.com/hatuanem199801/learning-package-npm.git"
   },
   "author": "hatuanem",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hatuanem199801/mongo-db/issues"
+    "url": "https://github.com/hatuanem199801/learning-package-npm/issues"
   },
-  "homepage": "https://github.com/hatuanem199801/mongo-db#readme",
+  "homepage": "https://github.com/hatuanem199801/learning-package-npm#readme",
   "dependencies": {
     "assert": "^1.4.1",
     "mongodb": "^3.1.13",
