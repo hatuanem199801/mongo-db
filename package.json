@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev" : "nodemon server.js"
+    "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,8 @@
   "homepage": "https://github.com/hatuanem199801/mongo-db#readme",
   "dependencies": {
     "assert": "^1.4.1",
-    "mongodb": "^3.1.13"
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.13"
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
