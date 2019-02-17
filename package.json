@@ -1,0 +1,27 @@
+{
+  "name": "mongo-db",
+  "version": "1.0.0",
+  "description": "Learning mongo db",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev" : "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hatuanem199801/mongo-db.git"
+  },
+  "author": "hatuanem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hatuanem199801/mongo-db/issues"
+  },
+  "homepage": "https://github.com/hatuanem199801/mongo-db#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.1.13"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
